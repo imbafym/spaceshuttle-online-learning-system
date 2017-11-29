@@ -1,7 +1,7 @@
 package com.example.springsecurity.model;
 
 public class User {
-
+//add test push
     public User(String name, String password){
         this.name = name;
         this.password = password;
