@@ -9,15 +9,15 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class SpringsecurityApplicationTests {
 
-	@Test
-	public void contextLoads() {
-	}
+
+    @Test
+    public void contextLoads() {
+    }
 
 
-	@Test
-	public void testMath(){
+    @Test
+    public void testMath() {
 
 
-
-	}
+    }
 }
