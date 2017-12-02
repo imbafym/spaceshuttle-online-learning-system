@@ -14,10 +14,4 @@ public class SpringsecurityApplicationTests {
     public void contextLoads() {
     }
 
-
-    @Test
-    public void testMath() {
-
-
-    }
 }
