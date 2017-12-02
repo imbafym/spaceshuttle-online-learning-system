@@ -4,11 +4,11 @@ import org.springframework.security.core.GrantedAuthority;
 
 import javax.persistence.*;
 
-//@Entity
-//@Table(name = "Role")
+@Entity
+@Table(name = "role")
 public class Role implements GrantedAuthority {
-
-    @javax.persistence.Id
+//
+    @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     @Column(name = "role_id")
     private int Id;
